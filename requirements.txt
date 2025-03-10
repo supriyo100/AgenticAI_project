@@ -17,3 +17,4 @@ sqlalchemy
 sqlite-utils
 tiktoken
 pgvector
+dotenv_python
